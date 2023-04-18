@@ -1,10 +1,24 @@
 # Big Data Foundations
 
+<p align="center">
+<img src="https://github.com/claudiaanjos/big-data-foundations/blob/main/images/logo_semantix.png"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=CONCLUIDO&color=blue&style=for-the-badge"/>
+</p>
+
+#
+
+
 ### 📚  Descrição
 
-Módulo **Big Data Foundations** do programa de formação Big Data Science promovido pela [Semantix Academy](https://us.semantix.ai/academy).
+Curso de **Big Data Foundations** do programa de formação em Big Data Science e Engineer promovido pela [Semantix Academy](https://us.semantix.ai/academy).
 
-Conteúdo:
+#
+
+### Conteúdo
+
 
 • Conhecimento de ferramentas atuais no mercado de Big Data;
 
