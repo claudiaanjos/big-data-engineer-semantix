@@ -1,7 +1,11 @@
 # Treinamento Big Data Engineer | Semantix Academy
 
 <p align="center">
-<img src="https://github.com/claudiaanjos/big-data-engineer-semantix/blob/main/images/logo_semantix.png"/>
+<img src="https://github.com/claudiaanjos/big-data-engineer-semantix/blob/main/images/logo_semantix.png" width=50%/>
+</p>
+
+<p align="center">
+<img src="https://github.com/claudiaanjos/big-data-engineer-semantix/blob/main/images/certificado.png" width=50%/>
 </p>
 
 <p align="center">
@@ -125,7 +129,6 @@ Spark - Big Data Processing
 - Criações de User defined Function;
 - Configurações de Tunning para o Spark Application.
 </details>
-
 
 #
 <a href="https://www.linkedin.com/in/claudia-nogueira-dos-anjos-b71726215/" target="_blank">
