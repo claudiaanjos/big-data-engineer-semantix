@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/claudiaanjos/big-data-engineer-semantix/blob/main/images/certificado.png" width=50%/>
+<img src="https://github.com/claudiaanjos/big-data-engineer-semantix/blob/main/images/certificado.png" width=40%/>
 </p>
 
 <p align="center">
